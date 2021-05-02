@@ -1,0 +1,9 @@
+const String homeRoute = '/';
+const String loginRoute = '/login';
+const String userMenuRoute = '/userMenu';
+const String childMenuRoute = '/childMenu';
+const String guardianMenuRoute = '/guardianMenu';
+const String practiceMenuRoute = '/practiceMenu';
+const String learningMenuRoute = '/learningMenu';
+const String doQuizRoute = '/doQuiz';
+const String registerRoute = '/register';
